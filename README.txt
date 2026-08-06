@@ -1,0 +1,1 @@
+Replace placeholder image boxes with your product images in /images and update HTML img tags.
