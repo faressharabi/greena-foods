@@ -1,0 +1,11 @@
+greena-foods
+│── index.html
+│── style.css
+│── images
+│     ├── peas.jpg
+│     ├── broccoli.jpg
+│     ├── spinach.jpg
+│     ├── cauliflower.jpg
+│     ├── molokhia.jpg
+│     ├── green-beans.jpg
+│     └── mixed-vegetables.jpg
